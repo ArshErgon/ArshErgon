@@ -60,4 +60,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/yushi1007)
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/ArshErgon/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
