@@ -45,8 +45,8 @@ I'm an open source developer, helping the community is something what I always w
 
 ## 📈 GitHub Stats 
 
-[![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=ArshErgon)](https://github.com/yushi1007)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/yushi1007)
+[![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=ArshErgon)](https://github.com/ArshErgon)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArshErgon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/ArshErgon)
 <!-- platane/snk works, it just puts it on a new branch -->
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
