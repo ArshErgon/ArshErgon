@@ -1,14 +1,52 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArshErgon.ArshErgon)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
+</p>
 
 **`Digital Craftsman (Developer/Creator)`**
 I'm an open source developer, helping the community is something what I always wanted to do and open source gives me the change to code something which will be used by millions.
 
-### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/arsh-ergon/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/arshergon/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/arshergon/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Arsh Ali
+located_in: Dehradun, Uttarakhand
+current_job: Open Source Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Master's in Computer Applications",
+    "Bachelor's in Computer Science",
+  ]
+company: GitHub
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Software Development",
+    "UI/UX",
+    "DevOps",
+  ]
+  
+currently_learning: ["Docker, Kubernetes and Carbon"]
+```
+  
+---  ```
 
 
 ### 🧰 Languages and Tools
@@ -31,17 +69,8 @@ I'm an open source developer, helping the community is something what I always w
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
 
 </br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-<!-- ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837) -->
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-<!-- ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7) -->
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
 
 ## 📈 GitHub Stats 
 
@@ -49,4 +78,10 @@ I'm an open source developer, helping the community is something what I always w
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArshErgon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/ArshErgon)
 <!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+ ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=100%&section=footer"/>
+</p>
