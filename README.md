@@ -74,7 +74,8 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 
 ## 📈 GitHub Stats 
 
-[![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=ArshErgon)](https://github.com/ArshErgon)
+![ArshErgon](https://raw.githubusercontent.com/ArshErgon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArshErgon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/ArshErgon)
 <!-- platane/snk works, it just puts it on a new branch -->
