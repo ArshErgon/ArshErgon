@@ -1,5 +1,5 @@
+<img src="assets/header/headerImage.png" width="100%"/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArshErgon.ArshErgon)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
@@ -74,10 +74,15 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 
 ## 📈 GitHub Stats 
 
-![ArshErgon](https://raw.githubusercontent.com/ArshErgon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArshErgon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshErgon&layout=compact)](https://github.com/ArshErgon)
+<p align="center">
+ <img width="200px"src="assets/header/lights.png">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="200px"src="assets/header/lights.png">
+ <br>
+ <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
+ 
+</p>
 <!-- platane/snk works, it just puts it on a new branch -->
 
  ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
