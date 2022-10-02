@@ -4,8 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=100&section=header"/>
 </p>
 
-**`Digital Craftsman (Developer/Creator)`**
-I'm an open source developer, helping the community is something what I always wanted to do and open source gives me the change to code something which will be used by millions.
+# 🏄‍♂️ ArshErgon
+
+**`Digital Craftsman (Developer/Creator)`** 
+<br/><br/>
+Hey, I'm an Open Source Developer and content creator helping in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems, and seeing millions of peoples are using my features.
 
 
 <h1 align="center">
