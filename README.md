@@ -76,9 +76,9 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 ## 📈 GitHub Stats 
 
 <p align="center">
- <img width="200px"src="assets/header/lights.png">
+ <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="assets/header/lights.png">
+ <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
  <br>
  <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
