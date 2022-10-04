@@ -6,7 +6,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🏄‍♂️ I'm+Arsh+Ergon!;&center=true&size=30&pause=9^100">
+    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=33&pause=900000&color=7BF7ED&center=true&vCenter=true&width=435&height=100&lines=🏄‍I'm+Arsh+Ergon!">
+    <!-- for the future will be using Arabic -->
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Amiri+Quran&size=32&pause=900000&color=ffffff&center=true&vCenter=true&width=435&height=50&lines=أرش"> -->
+
   </a>
 </h1>
 
