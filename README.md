@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=33&pause=900000&color=7BF7ED&center=true&vCenter=true&width=435&height=100&lines=🏄‍I'm+Arsh+Ergon!">
+    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=33&pause=900&color=7BF7ED&center=true&vCenter=true&width=435&height=100&lines=🏄‍I'm+Arsh+Ergon!">
     <!-- for the future will be using Arabic -->
     <!-- <img src="https://readme-typing-svg.demolab.com?font=Amiri+Quran&size=32&pause=900000&color=ffffff&center=true&vCenter=true&width=435&height=50&lines=أرش"> -->
 
@@ -95,7 +95,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
   <a align="right" href="https://github.com/ArshErgon/Programming-Free-E-Books" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshErgon&repo=Programming-Free-E-Books&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <h4 align="center">
   <a href="https://github.com/ArshErgon?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
