@@ -13,7 +13,15 @@
   </a>
 </h1>
 
-<div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
+<svg fill="none" viewBox="0 0 800 400" width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      </style>
+      <div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
+    </div>
+</svg>
+
 
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
