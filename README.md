@@ -13,16 +13,6 @@
   </a>
 </h1>
 
-<svg fill="none" viewBox="0 0 800 400" width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-      </style>
-      <div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
-    </div>
-</svg>
-
-
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
 Hey, I'm an Open Source Developer and content creator helping in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems, and seeing millions of peoples are using my features.
@@ -31,7 +21,7 @@ Hey, I'm an Open Source Developer and content creator helping in development of 
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-<div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:15px"></div>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/arshergon/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -67,7 +57,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 ```
   
  
-<div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
 <h2 align="center">🔥 Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
@@ -79,7 +69,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 </p>
 <br>
 <br>
-<div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
 <h2 align="center"> 📈 GitHub Stats </h2>
 
 <p align="center">
@@ -92,7 +82,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
  
 </p>
 
-<div style="height: 8px; background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); border-radius:25px;width:100%;margin-bottom:10px"></div>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
 <h2 align="center">👨‍💻 Repositories (Open Source)👨‍💻</h2>
 <br>
 <div width="100%" align="center">
