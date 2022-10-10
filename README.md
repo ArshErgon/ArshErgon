@@ -103,7 +103,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 
 <br><br><br><br><br><br>
 
- ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+ ![ArshErgon gif](https://github.com/ArshErgon/ArshErgon/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
