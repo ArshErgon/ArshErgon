@@ -29,26 +29,27 @@
 </p>
 
 ```yaml
-name: Arsh Ali
+name: Mohd. Arsh Ali
 located_in: Dehradun, Uttarakhand
 current_job: Open Source Developer
 education:
   [
-    "Self-Taught Developer and Designer",
     "Master's in Computer Applications",
     "Bachelor's in Computer Science",
+    "AlgoExpert DSA Course"
   ]
 company: GitHub
 
 fields_of_interests:
   [
     "Web Development",
+    "Web Designing",
     "Software Development",
     "UI/UX",
     "DevOps",
   ]
   
-currently_learning: ["Docker, Kubernetes and Carbon"]
+currently_learning: ["Docker, Kubernetes, Cypress and Carbon"]
 ```
   
  
@@ -59,6 +60,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,r,go,tailwindcss,materialui,c,typescript,nim,svelte,cpp,dart" />
     <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,vue,javascript,css,express,styledcomponents,nextjs,graphql" /><br>
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,mongodb,mysql,django,html,blender,ae,linux,vscode,heroku,figma,gradle,java" />
 
