@@ -12,7 +12,7 @@
 
 **```Digital Craftsman (Developer/Creator)```** 
 <br/><br/>
-<h3>Hey, I'm Arsh, an Open Source Developer who mostly works for Open Source Projects as a maintainer or as a developer, durning my journey I've worked with Google, Meta, Novu, Fornjot and my favourite Brave Softwares, my job mainly is to fix the issues or make a new features to make users life easy.
+><h3>Hey, I'm Arsh, an Open Source Developer who mostly works for Open Source Projects as a maintainer or as a developer, durning my journey I've worked with Google, Meta, Novu, Fornjot and my favourite Brave Softwares, my job mainly is to fix the issues or make a new features to make users life easy.
 </h3>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center">
@@ -70,7 +70,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 </p>
 <br>
 <br>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center"> 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/stats.png" />
 </p>
