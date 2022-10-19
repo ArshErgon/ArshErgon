@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/arsh.png">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=120&section=header"/>
@@ -7,9 +7,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=33&pause=900&color=7BF7ED&center=true&vCenter=true&width=435&height=100&lines=🏄‍I'm+Arsh+Ergon!">
-    <!-- for the future will be using Arabic -->
-    <!-- <img src="https://readme-typing-svg.demolab.com?font=Amiri+Quran&size=32&pause=900000&color=ffffff&center=true&vCenter=true&width=435&height=50&lines=أرش"> -->
-
   </a>
 </h1>
 
@@ -18,10 +15,10 @@
 Hey, I'm an Open Source Developer and content creator helping in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems, and seeing millions of peoples are using my features.
 
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br><br>
+<p align="center">
+  <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/connected.png" />
+</p>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/arshergon/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -31,7 +28,9 @@ Hey, I'm an Open Source Developer and content creator helping in development of 
 </a>
 </p>
 
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<p align="center"> 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/interest.png" />
+</p>
 
 ```yaml
 name: Arsh Ali
@@ -57,8 +56,10 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 ```
   
  
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center">🔥 Languages-Frameworks-Tools</h2>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<p align="center"> 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/languages.png" />
+</p>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -69,21 +70,24 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 </p>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center"> 📈 GitHub Stats </h2>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<p align="center"> 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/stats.png" />
+</p>
 
-<p align="center">
- <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
+<div align="center">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages"/>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=arshergon&show_icons=true&theme=radical"  style="margin-left:5px"/> 
  <br>
  <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
- 
-</p>
+ <img src="https://github.com/ArshErgon/ArshErgon/blob/784f140f5ceb66d54e34558bc37113da3049c34d/profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center">👨‍💻 Repositories (Open Source)👨‍💻</h2>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<p align="center"> 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/repos.png" />
+</p>
 <br>
 <div width="100%" align="center">
   <a align="right" href="https://github.com/ArshErgon/Novu" title="Data Structures"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ArshErgon&repo=Novu&theme=react&border_color=61dafb&border_radius=10"></a>
