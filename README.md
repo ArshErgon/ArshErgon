@@ -10,15 +10,15 @@
   </a>
 </h1>
 
-**`Digital Craftsman (Developer/Creator)`** 
+**```Digital Craftsman (Developer/Creator)```** 
 <br/><br/>
-Hey, I'm an Open Source Developer and content creator helping in development of Open Source Projects for the community. What motivates me for open source? I love to solve real world problems, and seeing millions of peoples are using my features.
+> Hey, I'm an Open Source Developer, UI designer and a web developer, I'm here to
 
-
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center">
   <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/connected.png" />
 </p>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br><br>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/arshergon/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -27,7 +27,7 @@ Hey, I'm an Open Source Developer and content creator helping in development of 
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center"> 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/interest.png" />
 </p>
@@ -77,7 +77,7 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 
 <div align="center">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshergon&layout=compact&theme=radical&custom_title=Languages"/>
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=arshergon&show_icons=true&theme=radical"  style="margin-left:5px"/> 
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=arshergon&theme=radical" /> 
  <br>
  <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=arshergon&theme=redical">
@@ -111,5 +111,5 @@ currently_learning: ["Docker, Kubernetes and Carbon"]
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&width=100%&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
