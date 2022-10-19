@@ -6,14 +6,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rock+Salt&size=33&pause=900&color=7BF7ED&center=true&vCenter=true&width=435&height=100&lines=🏄‍I'm+Arsh+Ergon!">
+    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Arsh+Ergon!">
   </a>
 </h1>
 
 **```Digital Craftsman (Developer/Creator)```** 
 <br/><br/>
-> Hey, I'm an Open Source Developer, UI designer and a web developer, I'm here to
-
+<h3>Hey, I'm Arsh, an Open Source Developer who mostly works for Open Source Projects as a maintainer or as a developer, durning my journey I've worked with Google, Meta, Novu, Fornjot and my favourite Brave Softwares, my job mainly is to fix the issues or make a new features to make users life easy.
+</h3>
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center">
   <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/connected.png" />
