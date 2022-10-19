@@ -1,9 +1,5 @@
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/arsh.png">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=120&section=header"/>
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=7BF7ED&center=true&vCenter=true&width=550&height=100&lines=I'm+Arsh+Ergon!">
