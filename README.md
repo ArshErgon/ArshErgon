@@ -1,4 +1,4 @@
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/arsh.png">
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/arsh.png">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -10,9 +10,9 @@
 <br/><br/>
 ><h3>Hey, I'm Arsh, an Open Source Developer who mostly works for Open Source Projects as a maintainer or as a developer, durning my journey I've worked with Google, Meta, Novu, Fornjot and my favourite Brave Softwares, my job mainly is to fix the issues or make a new features to make users life easy.
 </h3>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center">
-  <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/connected.png" />
+  <img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/connected.png" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center"> 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/interest.png" />
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/interest.png" />
 </p>
 
 ```yaml
@@ -53,9 +53,9 @@ currently_learning: ["Docker, Kubernetes, Cypress and Carbon"]
 ```
   
  
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/lineBar.png" width="100%" height="8px"/><br>
 <p align="center"> 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/languages.png" />
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/languages.png" />
 </p>
 <br>
 <p align="center">
@@ -68,9 +68,9 @@ currently_learning: ["Docker, Kubernetes, Cypress and Carbon"]
 </p>
 <br>
 <br>
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/lineBar.png" width="100%" height="8px"/>
 <p align="center"> 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/stats.png" />
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/stats.png" />
 </p>
 
 <div align="center">
@@ -82,7 +82,7 @@ currently_learning: ["Docker, Kubernetes, Cypress and Carbon"]
  <img src="https://github.com/ArshErgon/ArshErgon/blob/784f140f5ceb66d54e34558bc37113da3049c34d/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/><br>
+<img src="https://github.com/ArshErgon/ArshErgon/blob/9b2f1db0b30258fea4ceb171fdca5f61442ba8ff/assets/header/lineBar.png" width="100%" height="8px"/><br>
 <p align="center"> 
 <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/repos.png" />
 </p>
