@@ -38,7 +38,7 @@ education:
     "Bachelor's in Computer Science",
     "AlgoExpert DSA Course"
   ]
-company: GitHub
+company: Designah Digital / Independent
 
 fields_of_interests:
   [
@@ -48,7 +48,15 @@ fields_of_interests:
     "UI/UX",
     "DevOps",
   ]
-  
+
+top_repos:
+[
+  "FeeFlow — 500+ users, payment system"
+  "Designshipy — 80+ developers using it"
+  "DreamInterpretation — 1,000+ users, AI-generated visuals"
+  "ResumeWizard — 100+ active users, privacy-first"
+]
+
 currently_learning: ["Docker, Kubernetes, Cypress and Carbon"]
 ```
   
